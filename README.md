@@ -1,6 +1,6 @@
 <div align="center">
   <h1>InspectX</h1>
-  <p><strong>Defect Detection Studio — by Hestabit Technologies</strong></p>
+  <p><strong>Defect Detection Studio — by Shubham Sahu</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
     <img src="https://img.shields.io/badge/PyQt6-6.6+-green?logo=qt" />
@@ -104,7 +104,7 @@ inspectx-python/
 ├── seed_demo.py                # Populate DB with demo user + project
 ├── inspectx.spec               # PyInstaller build spec
 ├── assets/
-│   └── hestabit-logo.jpg
+│   └── -logo.jpg
 └── app/
     ├── database/
     │   ├── engine.py           # SQLite engine (dev + packaged path aware)
@@ -146,4 +146,4 @@ inspectx-python/
 
 ## 📄 License
 
-MIT © Hestabit Technologies
+MIT ©  Shubham
