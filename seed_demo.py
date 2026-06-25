@@ -137,7 +137,7 @@ def seed():
 
         session.commit()
 
-    print("\n✅  Demo data seeded successfully!")
+    print("\n Demo data seeded successfully!")
     print("   Login  →  demo@inspectx.ai  /  demo1234")
     print("   Admin  →  admin  /  admin")
 

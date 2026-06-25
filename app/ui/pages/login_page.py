@@ -62,7 +62,7 @@ class LoginPage(QWidget):
         logo.setStyleSheet("background:transparent;border:none;")
         brand_col = QVBoxLayout()
         brand_col.setSpacing(0)
-        b1 = QLabel("Hestabit Defect Detection Studio")
+        b1 = QLabel("Defect Detection Studio")
         b1.setStyleSheet(f"font-size:14px;font-weight:700;color:{WHITE};background:transparent;border:none;")
         b2 = QLabel("Industrial AI Vision Platform")
         b2.setStyleSheet(f"font-size:11px;color:{VIOLET_400};background:transparent;border:none;")
@@ -116,7 +116,7 @@ class LoginPage(QWidget):
             layout.addSpacing(6)
 
         layout.addStretch()
-        copy = QLabel("© 2026 Hestabit Technologies")
+        copy = QLabel("© 2026 InspectX")
         copy.setStyleSheet(f"font-size:10px;color:#374151;background:transparent;border:none;")
         layout.addWidget(copy)
         return panel

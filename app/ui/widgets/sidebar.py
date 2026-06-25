@@ -135,7 +135,7 @@ class ProjectSidebar(QWidget):
         btl = QVBoxLayout(brand_text)
         btl.setContentsMargins(0, 0, 0, 0)
         btl.setSpacing(1)
-        n = QLabel("Hestabit DDS")
+        n = QLabel("Inspectx")
         n.setStyleSheet(
             f"font-size:12px;font-weight:700;color:{WHITE};"
             f"background:transparent;border:none;letter-spacing:0.01em;"

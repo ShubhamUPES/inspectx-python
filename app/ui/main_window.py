@@ -29,7 +29,7 @@ from app.ui.widgets.toast        import Toast
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("InspectX — Hestabit Defect Detection Studio")
+        self.setWindowTitle("InspectX —  Defect Detection Studio")
         self.resize(1400, 880)
         self.setMinimumSize(1100, 700)
 
